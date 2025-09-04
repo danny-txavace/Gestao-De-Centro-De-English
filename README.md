@@ -23,10 +23,10 @@ Open your terminal:
 
 - Configurar na Variável de ambiente:
 # DATABASE MYSQL
-export DB_SERVER="localhost"
-export DB_PORT=3306
-export DB_USERNAME="root"
-export DB_PASSWORD="Debian_Danny2"
+export DB_SERVER="your_server"
+export DB_PORT=0000000
+export DB_USERNAME="username"
+export DB_PASSWORD="your_password"
 
 # JWT(BearerTOKEN)
-export JWT_SIGNING_KEY="9c6d5d2983b7fab36afea72639222fe6958cb8c2289d2739f630d859e5644963712c6b1279020bca3c62088fb18902354ca96231e182a0c21cc9a0f37c7ca3fe"
+export JWT_SIGNING_KEY="your_token"
